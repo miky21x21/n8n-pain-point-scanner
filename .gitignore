@@ -1,0 +1,5 @@
+# never commit n8n data or backups (they contain credentials)
+*.tar.gz
+n8n_data/
+.n8n/
+.env
